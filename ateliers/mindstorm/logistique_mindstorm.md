@@ -2,9 +2,9 @@
 
 Il faut installer le logiciel 
 
-[http://www.lego.com/en-us/mindstorms/downloads/software/ddsoftwaredownload/](http://www.lego.com/en-us/mindstorms/downloads/software/ddsoftwaredownload/)
+[download du logiciel](http://www.lego.com/en-us/mindstorms/downloads/software/ddsoftwaredownload/download-software/)
 
 Prérequis :
 
-- Windows 
+- Windows ou Mac
 
