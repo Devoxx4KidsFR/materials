@@ -1,7 +1,7 @@
 #!/bin/bash
 
-GHCSS1=devoxx4kidsfr.github.io/materials/stylesheets/styles.css
-GHCSS2=devoxx4kidsfr.github.io/materials/stylesheets/pygment_trac.css
+GHCSS1=https://devoxx4kidsfr.github.io/materials/stylesheets/styles.css
+GHCSS2=https://devoxx4kidsfr.github.io/materials/stylesheets/pygment_trac.css
 
 for mdfile in $(find ./ateliers -name "*.md" -anewer $(dirname $0)/gen-docs-timestamp)
 do
