@@ -18,3 +18,7 @@ Ateliers disponibles sur le site international. Il y a une version en français 
 [Ateliers Arduino Devoxx4Kids Belgique sur github](https://github.com/devoxx4kids/materials/tree/master/workshops/arduino)
 
 Github n'affiche pas les PDF et les zip. il faut downloader les versions raw.
+
+## Kit utilisé
+
+[Starter Kit Workshop](http://fr.farnell.com/arduino/a000010/kit-workshop-base-niveau/dp/1848693)
