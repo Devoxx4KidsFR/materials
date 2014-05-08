@@ -2,11 +2,13 @@
 
 GHCSS1=https://devoxx4kidsfr.github.io/materials/stylesheets/styles.css
 GHCSS2=https://devoxx4kidsfr.github.io/materials/stylesheets/pygment_trac.css
+HEADER="--include-before-body=$(dirname $0)/header.html"
+HTML_OPTIONS="--from=markdown --to=html5 --standalone --css $GHCSS1 --css $GHCSS2 $HEADER"
 
 for mdfile in $(find ./ateliers -name "*.md" -anewer $(dirname $0)/gen-docs-timestamp)
 do
     echo $mdfile
-   pandoc $mdfile --from=markdown --to=html5 --standalone --css $GHCSS1 --css $GHCSS2 --output=$(dirname $mdfile)/$(basename $mdfile .md).html
+   pandoc $mdfile $HTML_OPTIONS --output=$(dirname $mdfile)/$(basename $mdfile .md).html
 done
 
 
