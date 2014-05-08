@@ -1,4 +1,4 @@
-# logistique Arduino
+# Logistique Arduino
 
 ## Installer le logiciel
 
