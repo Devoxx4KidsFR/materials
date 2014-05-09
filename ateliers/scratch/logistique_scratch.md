@@ -24,7 +24,7 @@ L'éditeur utilise Air. On vous demandera peut être de l'installer en cours d'i
 
 Le navigateur doit avoir un plugin Flash.
 
-Pensez à leur demander de sauver souvent. ça permet un retour en arrière plus facile quand.
+Pensez à leur demander de sauver souvent. ça permet un retour en arrière plus facile.
 
 En offline, ils créent le projet en local et on uploade sur le site web a la fin en utilisant le menu. On a besoin du login mot de passe a ce moment là.
 
