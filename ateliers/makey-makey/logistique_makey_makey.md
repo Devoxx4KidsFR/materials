@@ -1,4 +1,4 @@
-# logistique Makey Makey
+# Logistique Makey Makey
 
 Le driver à installer est sur la carte et s'installe automatiquement lorsqu'on la connecte sur le port USB. 
 
