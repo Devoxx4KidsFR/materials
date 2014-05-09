@@ -18,7 +18,7 @@ Pensez à leur demander de sauver souvent.  Ça décroche parfois, ou ils affich
 
 Il faut installer l'éditeur Offline. Il est en béta mais marche sans souci. 
 
-[http://scratch.mit.edu/scratch2download/]()http://scratch.mit.edu/scratch2download/)
+[http://scratch.mit.edu/scratch2download/](http://scratch.mit.edu/scratch2download/)
 
 L'éditeur utilise Air. On vous demandera peut être de l'installer en cours d'installation de Scratch. Assurez vous d'avoir les droits saffisants. 
 
