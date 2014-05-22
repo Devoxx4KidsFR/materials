@@ -8,15 +8,15 @@ Documents qui vous aideront à organiser un atelier Arduino :
 Atelier de Base 
 
 - [Document support](atelier-base/D4K-Arduino-2014-FR-Base.pdf)
-- [Code](atelier-base/code)
-- [Zip du Code](atelier-base/code.zip)
+- [Code](https://github.com/Devoxx4KidsFR/materials/tree/gh-pages/ateliers/arduino/atelier-base/code)
+- [Zip du Code](https://github.com/Devoxx4KidsFR/materials/tree/gh-pages/ateliers/arduino/atelier-base/code.zip)
 
 Atelier Avancé
 
 - [Document Musique](atelier-avance/D4K-Arduino-2014-FR-Musique.pdf)
 - [Document Feux Tricolore](atelier-avance/D4K-Arduino-2014-FR-FeuxTricolore.pdf)
-- [Code](atelier-avance/code)
-- [Zip du Code](atelier-avance/code.zip)
+- [Code](https://github.com/Devoxx4KidsFR/materials/tree/gh-pages/ateliers/arduino/atelier-avance/code)
+- [Zip du Code](https://github.com/Devoxx4KidsFR/materials/tree/gh-pages/ateliers/arduino/atelier-avance/code.zip)
 
 Vous pouvez aussi trouver d'autres ressources sur le site international 
 
