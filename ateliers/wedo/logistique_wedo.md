@@ -1,5 +1,16 @@
 # Logistique Wedo
 
+## Kits
+
+Il faut un kit robotique pour 2 enfants. 
+
+Les kits que nous utilisons sont des [9580 Lego Education WeDo Construction Set](http://education.lego.com/en-us/lego-education-product-database/wedo/9580-lego-education-wedo-construction-set).
+
+Les pièces sont embalées dans des sachets type sac congélation. La boîte et le couvercle, ainsi que le plateau à 4 cases à l'intérieur permettent d'étaler les pièces sur la table sans qu'elles tombent de la table. Attention toutefois aux petites pièces qui tombent ou qui roulent.
+
+Une carte avec la liste des pièces est inclus dans la boîte. Vous aurez régulièrement la joie de recompter les pièces et vous comprendrez à ce moment là pourquoi on vous recommende de bien séparer les groupes.
+
+
 ## Logiciels
 
 Le robot est alimenté et piloté par l'ordinateur. Par conséquent, il faut impérativement un ordinateur par kit.
@@ -39,3 +50,6 @@ Le kit est assez facile à comprendre. On peut improviser des montages. Les fonc
 - afficher un texte sur l'écran de l'ordinateur avec gestion d'un compteur
 - envoyer / recevoir des messages dans le programme
 - éteindre / allumer lumière
+
+
+Prévoir du des feuilles de papier pour faire des éléments de décor ou des balles (pour le gardien de but). 
