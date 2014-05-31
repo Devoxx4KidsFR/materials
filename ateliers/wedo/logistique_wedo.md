@@ -52,4 +52,6 @@ Le kit est assez facile à comprendre. On peut improviser des montages. Les fonc
 - éteindre / allumer lumière
 
 
-Prévoir du des feuilles de papier pour faire des éléments de décor ou des balles (pour le gardien de but). 
+Prévoir du des feuilles de papier pour faire des éléments de décor ou des balles (pour le gardien de but).
+
+Vous pouvez aussi amener des post-its utilisables pour faire un gestion visuelle des tâches à réaliser.  
