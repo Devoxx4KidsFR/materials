@@ -19,11 +19,11 @@ void setup () {
 void loop() {
   digitalWrite(PIN_BASE + decalage,  LOW); // eteint
   
-  decallage = ((decalage + 1) % NOMBRE_DE_LEDS);
-  Serial.println("Decallage");
-  Serial.println(decallage);
+  decalage = ((decalage + 1) % NOMBRE_DE_LEDS);
+  Serial.println("Decalage");
+  Serial.println(decalage);
   
-  digitalWrite(PIN_BASE + decallage,  HIGH); // allume
+  digitalWrite(PIN_BASE + decalage,  HIGH); // allume
   
   delay(400);
 }
