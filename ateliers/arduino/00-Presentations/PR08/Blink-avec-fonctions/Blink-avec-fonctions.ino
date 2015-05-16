@@ -38,7 +38,7 @@ void eteintLED() {
 }
 
 
-void attend(int temps) {
-  delay(temps * 1000);    // attends le nombre de secondes demandees
+void attend(int tempsEnSecondes) {
+  delay(tempsEnSecondes * 1000);    // attends le nombre de secondes demandees
 }
 
