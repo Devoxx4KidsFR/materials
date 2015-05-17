@@ -14,7 +14,7 @@ void setup () {
   Serial.begin(9600);
   
   afficheUnNombre(5); // indique un nombre entre 0 et 15
-}
+} 
 
 // Cette partie est faite en boucle tant que l'on n'arrete pas l'arduino
 
