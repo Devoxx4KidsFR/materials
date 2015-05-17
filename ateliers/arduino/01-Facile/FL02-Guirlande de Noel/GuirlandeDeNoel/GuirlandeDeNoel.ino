@@ -2,8 +2,8 @@
 // Allume les LED  tour de role.
  
 
-int NOMBRE_DE_LEDS = 3;
-int PIN_BASE = 11;
+int NOMBRE_DE_LEDS = 4;
+int PIN_BASE = 10;
 int decalage = 0;
 
 // Cette partie n'est faite qu'une fois quand on appuie sur le bouton RESET de l'Arduino
@@ -25,6 +25,6 @@ void loop() {
   
   digitalWrite(PIN_BASE + decalage,  HIGH); // allume
   
-  delay(400);
+  delay(100);
 }
 
