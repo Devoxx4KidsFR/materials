@@ -3,7 +3,6 @@
  
 
 int NOMBRE_DE_LEDS = 4;
-int MAX = 2 << NOMBRE_DE_LEDS; // la valeur max affichable depend du nombre de leds
 int PIN_BASE = 10;
 int nombre = 1;
 
@@ -13,13 +12,16 @@ void setup () {
     pinMode (PIN_BASE + i, OUTPUT);     
   }
   Serial.begin(9600);
+  
+  afficheUnNombre(5); // indique un nombre entre 0 et 15
 }
 
 // Cette partie est faite en boucle tant que l'on n'arrete pas l'arduino
 
 void loop() {
-  Serial.println("N");
-  Serial.println(nombre);
+}
+
+void afficheUnNombre(int nombre) {
   int val = nombre;
   int reste = 0;
   for (int i=0; i<NOMBRE_DE_LEDS; i++) {
@@ -27,8 +29,6 @@ void loop() {
     Serial.println(reste);
     val = val >> 1;  // divise par 2
     digitalWrite(PIN_BASE + i, reste * HIGH);
-  }
-  nombre = (nombre + 1) % MAX; // limite le nombre a la valeur max
-  delay(4000);
+  }  
 }
 
