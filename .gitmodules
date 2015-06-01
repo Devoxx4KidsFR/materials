@@ -1,0 +1,3 @@
+[submodule "ateliers/arduino/arduino-workshop"]
+	path = ateliers/arduino/arduino-workshop
+	url = git@github.com:Devoxx4KidsFR/Arduino-Workshop.git
