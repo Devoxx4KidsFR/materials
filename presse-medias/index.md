@@ -11,7 +11,6 @@ Vous trouverez ici les logos et des présentations
 
 - [Présentation IUT Agile](iut-agile-2014/Pres-Devoxx4Kids.pdf)
 
-
 Vous pouvez aussi trouver d'autres ressources sur le site international 
 
 - [press sur le site international](https://github.com/devoxx4kids/materials/tree/master/press)
